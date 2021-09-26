@@ -1,2 +1,0 @@
-# Coronapp
-Repaso html
