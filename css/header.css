@@ -2,3 +2,8 @@ header {
   display: flex;
   justify-content: space-between;
 }
+header nav ul {
+  display: flex;
+  list-style: none;
+  gap: 24px;
+}
