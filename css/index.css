@@ -1,1 +1,10 @@
 @import "./header.css";
+@import "./hero.css";
+@import "./componentes/button.css";
+
+/* figure {
+  width: 100%;
+} */
+figure img {
+  width: 100%;
+}
