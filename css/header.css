@@ -11,3 +11,11 @@ header nav ul {
 header nav {
   display: none;
 }
+@media screen and (min-width: 768px) {
+  header nav {
+    display: block;
+  }
+  .btn-menu {
+    display: none;
+  }
+}
